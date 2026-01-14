@@ -12,7 +12,7 @@
     - Displacement CC:155
     - Company:Yamaha
     
-![aerox](https://yamaha-storage.s3.ap-southeast-1.amazonaws.com/production/vehicles/aerox/color-variation/20250731085417688b2f390d874.webp)
+![aerox](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_LcQAJ5iLKvKhaZcSxmrLQeoLpNWFj3STkg&s)
 
 ## Object 2
     - Model:Pcx 160
